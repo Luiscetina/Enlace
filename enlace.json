@@ -3,6 +3,11 @@
         "Atmosphere": {
             "Pk Unico v4.0": "https://github.com/CTCaer/hekate/releases/download/v6.3.1/hekate_ctcaer_6.3.1_Nyx_1.7.0.zip"
         }
+        "DeepSea": {
+            "deepsea-advanced_v4.13.0.zip": "https://github.com/Team-Neptune/DeepSea/releases/download/v4.13.0/deepsea-advanced_v4.13.0.zip",
+            "deepsea-minimal_v4.13.0.zip": "https://github.com/Team-Neptune/DeepSea/releases/download/v4.13.0/deepsea-minimal_v4.13.0.zip",
+            "deepsea-normal_v4.13.0.zip": "https://github.com/Team-Neptune/DeepSea/releases/download/v4.13.0/deepsea-normal_v4.13.0.zip"
+        }
     },
     "firmwares": {
         "20.3.0": "https://github.com/THZoria/NX_Firmware/releases/download/20.3.0/Firmware.20.3.0.zip",
