@@ -6,7 +6,7 @@
     "cfws": {
         "Atmosphere": {
             "Pk Unico Dbi Basico": "https://github.com/rashevskyv/switch/blob/master/files/DBI_old.zip",
-            "Pk Unico v4.0 Completo": "https://github.com/Luiscetina/Enlace/archive/refs/tags/Prueba.zip",
+            "Pk Unico v4.0 Completo": "https://github.com/Luiscetina/Enlace/releases/download/Prueba/PkUnico.zip",
             "Pk Unico v4.0 Ultra": "https://github.com/Atmosphere-NX/Atmosphere/releases/download/1.9.3/atmosphere-1.9.3-master-8b8e4438e%2Bhbl-2.4.4%2Bhbmenu-3.6.0.zip"
         },
         "DeepSea": {
