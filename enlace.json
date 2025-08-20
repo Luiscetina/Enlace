@@ -5,7 +5,8 @@
     },
     "cfws": {
         "Atmosphere": {
-            "Pk Unico v3.1 Ultra Test": "https://github.com/Luiscetina/Enlace/releases/download/Prueba/PkUnico.zip"
+            "Pk Unico v3.1 Ultra Test": "https://github.com/Luiscetina/Enlace/releases/download/Prueba/PkUnico.zip",
+            "HB Unico v3.1 Ultra Test": "https://github.com/Luiscetina/Enlace/releases/download/Prueba/hbmenu.zip"
         },
         "DeepSea": {
             "deepsea-advanced_v4.13.0.zip": "https://github.com/Team-Neptune/DeepSea/releases/download/v4.13.0/deepsea-advanced_v4.13.0.zip",
