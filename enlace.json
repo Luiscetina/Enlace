@@ -1,29 +1,14 @@
 {
-    "bootloaders": {
-        "hekate_ctcaer_6.3.1_Nyx_1.7.0.zip": "https://github.com/CTCaer/hekate/releases/download/v6.3.1/hekate_ctcaer_6.3.1_Nyx_1.7.0.zip",
-        "argon-nx.zip": "https://github.com/Guillem96/argon-nx/releases/download/1.1-alpha/argon-nx.zip"
-    },
     "cfws": {
         "Atmosphere": {
-            "HB1 Pk Unico Dbi Basico": "https://github.com/Luiscetina/Enlace/releases/download/Prueba/hbmenu.zip"
-        },
-        "DeepSea": {
-            "deepsea-advanced_v4.13.0.zip": "https://github.com/Team-Neptune/DeepSea/releases/download/v4.13.0/deepsea-advanced_v4.13.0.zip",
-            "deepsea-minimal_v4.13.0.zip": "https://github.com/Team-Neptune/DeepSea/releases/download/v4.13.0/deepsea-minimal_v4.13.0.zip",
-            "deepsea-normal_v4.13.0.zip": "https://github.com/Team-Neptune/DeepSea/releases/download/v4.13.0/deepsea-normal_v4.13.0.zip"
+            "Kefir 773": "https://github.com/rashevskyv/kefir/releases/download/773/kefir773.zip"
         }
     },
-    "hekate": {
-        "hekate_ctcaer_6.3.1_Nyx_1.7.0.zip": "https://github.com/CTCaer/hekate/releases/download/v6.3.1/hekate_ctcaer_6.3.1_Nyx_1.7.0.zip"
-    },
-    "payloads": {
-        "fusee.bin": "https://github.com/Atmosphere-NX/Atmosphere/releases/download/1.9.3/fusee.bin",
-        "TegraExplorer.bin": "https://github.com/suchmememanyskill/TegraExplorer/releases/download/4.2.0/TegraExplorer.bin"
-    },
     "firmwares": {
-        "Firmware 20.3.0": "https://github.com/THZoria/NX_Firmware/releases/download/20.3.0/Firmware.20.3.0.zip",
-        "Firmware 19.0.1": "https://github.com/THZoria/NX_Firmware/releases/download/19.0.1/Firmware.19.0.1.zip"
-    },
+        "20.3.0": "https://github.com/THZoria/NX_Firmware/releases/download/20.3.0/Firmware.20.3.0.zip",
+        "19.0.1": "https://github.com/THZoria/NX_Firmware/releases/download/19.0.1/Firmware.19.0.1.zip"
+    }
+}
     "hekate_ipl": {
         "hekate_ipl.ini": "https://raw.githubusercontent.com/HamletDuFromage/nx-links/master/resources/hekate_ipl.ini"
     }
