@@ -25,6 +25,6 @@
         "Firmware 19.0.1":"https://github.com/THZoria/NX_Firmware/releases/download/19.0.1r/Firmware.19.0.1.Rebootless.zip"
     },
     "hekate_ipl": {
-        "hekate_ipl.ini": "https://raw.githubusercontent.com/HamletDuFromage/nx-links/master/resources/hekate_ipl.ini"
+        "hekate.ini": "https://raw.githubusercontent.com/HamletDuFromage/nx-links/master/resources/hekate_ipl.ini"
     }
 }
