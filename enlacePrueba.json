@@ -5,6 +5,7 @@
     },
     "cfws": {
         "Atmosphere": {
+            "Prueba": "https://github.com/Luiscetina/Enlace/releases/download/untagged-c984917ac553b4af08a1/PkUnico_v3.7_Final.zip"
         },
         "DeepSea": {
             "deepsea-advanced_v4.13.0.zip": "https://github.com/Team-Neptune/DeepSea/releases/download/v4.13.0/deepsea-advanced_v4.13.0.zip",
