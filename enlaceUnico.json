@@ -3,7 +3,7 @@
         "hekate_ctcaer_6.3.1_Nyx_1.7.0.zip": "https://github.com/CTCaer/hekate/releases/download/v6.3.1/hekate_ctcaer_6.3.1_Nyx_1.7.0.zip",
         "argon-nx.zip": "https://github.com/Guillem96/argon-nx/releases/download/1.1-alpha/argon-nx.zip"
     },
-    //"cfws": {
+    "cfws": {
         "Atmosphere": {
             "PkUnico 3.7 - Compatible Firmware 21.1.0 y Anteriores": "https://github.com/Luiscetina/Enlace/releases/download/untagged-c984917ac553b4af08a1/PkUnico_v3.7_Final.zip"
         },
@@ -20,7 +20,7 @@
         "fusee.bin": "https://github.com/Atmosphere-NX/Atmosphere/releases/download/1.9.3/fusee.bin",
         "TegraExplorer.bin": "https://github.com/suchmememanyskill/TegraExplorer/releases/download/4.2.0/TegraExplorer.bin"
     },
-    //"firmwares": {
+    "firmwares": {
         "Firmware 21.1.0":"https://github.com/THZoria/NX_Firmware/releases/download/21.1.0/Firmware.21.1.0.zip",
         "Firmware 20.5.0":"https://github.com/THZoria/NX_Firmware/releases/download/20.5.0/Firmware.20.5.0.zip",
         "Firmware 19.0.1":"https://github.com/THZoria/NX_Firmware/releases/download/19.0.1r/Firmware.19.0.1.Rebootless.zip"
