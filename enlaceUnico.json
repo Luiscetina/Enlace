@@ -5,7 +5,7 @@
     },
     "cfws": {
         "Atmosphere": {
-            "PkUnico 3.7_a - Compatible Firmware 21.1.0 y Anteriores": "https://github.com/Luiscetina/Enlace/releases/download/Prueba/PkUnico_v3.7_a.zip"
+            "PkUnico 3.8 - Compatible Firmware 21.2.0 y Anteriores": "https://github.com/Luiscetina/Enlace/releases/download/Prueba/PkUnico_v3.8.zip"
         },
         "DeepSea": {
             "deepsea-advanced_v4.13.0.zip": "https://github.com/Team-Neptune/DeepSea/releases/download/v4.13.0/deepsea-advanced_v4.13.0.zip",
@@ -21,7 +21,7 @@
         "TegraExplorer.bin": "https://github.com/suchmememanyskill/TegraExplorer/releases/download/4.2.0/TegraExplorer.bin"
     },
     "firmwares": {
-        "Firmware 21.1.0":"https://github.com/THZoria/NX_Firmware/releases/download/21.1.0/Firmware.21.1.0.zip",
+        "Firmware 21.2.0":"https://github.com/THZoria/NX_Firmware/releases/download/21.2.0/Firmware.21.2.0.zip",
         "Firmware 20.5.0":"https://github.com/THZoria/NX_Firmware/releases/download/20.5.0/Firmware.20.5.0.zip",
         "Firmware 19.0.1":"https://github.com/THZoria/NX_Firmware/releases/download/19.0.1r/Firmware.19.0.1.Rebootless.zip"
     },
